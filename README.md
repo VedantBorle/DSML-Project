@@ -1,2 +1,3 @@
-# DSML-Project
+# Treoke Prediction
 Stroke Prediction
+This project focuses on predicting the occurrence of strokes using machine learning algorithms. The dataset includes various health-related features such as age, hypertension, heart disease, and BMI. Multiple classification algorithms were applied, including Logistic Regression, Random Forest, SVM, K-Nearest Neighbors, and Gradient Boosting. To optimize the models, fine-tuning was conducted using GridSearchCV and RandomizedSearchCV. Key performance metrics such as the confusion matrix, ROC curve, and AUC were used to evaluate the models. Data visualization techniques like correlation heatmaps, feature distributions, and pair plots helped in understanding the dataset and identifying important trends.
